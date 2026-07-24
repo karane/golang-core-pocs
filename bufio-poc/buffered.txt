@@ -1,0 +1,2 @@
+Hello from bufio!
+This is written using buffered I/O.
