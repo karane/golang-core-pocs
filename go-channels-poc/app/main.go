@@ -11,5 +11,5 @@ func main() {
 	fmt.Println("================")
 
 	// Pick what you want to run:
-	experiments.CloseChannel()
+	experiments.SelectStatement()
 }
