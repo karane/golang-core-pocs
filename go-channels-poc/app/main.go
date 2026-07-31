@@ -11,5 +11,11 @@ func main() {
 	fmt.Println("================")
 
 	// Pick what you want to run:
-	experiments.WorkerPool()
+	//experiments.BufferedChannel()
+	//experiments.CloseChannel()
+	//experiments.SelectStatement()
+	//experiments.Pipeline()
+	//experiments.FanInFanOut()
+	//experiments.WorkerPool()
+	experiments.Deadlock()
 }
